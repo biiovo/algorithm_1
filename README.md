@@ -1,2 +1,1 @@
-# algorithm_1
-algorithm
+期末作业算法类
